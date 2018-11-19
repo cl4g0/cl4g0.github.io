@@ -1,0 +1,20 @@
+.flotar { float: left;
+ }
+ .flotariz { float: right;
+ }
+ .derecha{
+float: right;
+ }
+ .izquierda{
+float: left;
+ }
+
+.colocar{ clear: both; }
+
+body{
+	margin-left: 200px;
+	margin-right: 200px;
+}
+.a{
+	align-content: center;
+}
